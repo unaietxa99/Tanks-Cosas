@@ -1,0 +1,55 @@
+img#a {
+    width: 100px;
+    height:100px;
+    position:fixed;
+        
+}
+    
+img#b {
+    width: 100px;
+    height:100px;
+    position:fixed;
+        
+}
+img#c {
+    width: 100px;
+    height: 100px;
+    position:fixed;
+        
+}
+img#d {
+    width: 100px;
+    height: 100px;
+    position:fixed;
+        
+}
+body{
+    cursor: crosshair;
+    background-image: url("sielo.jpg");
+}
+label{
+    font-family:sans-serif;
+    font-size: 50px;
+    color: white;
+  }
+
+a{
+    font-family:sans-serif;
+    font-size: 50px;
+    color: white;
+  }
+
+html{
+    cursor: crosshair;
+}
+#boton{
+    position: absolute;
+    bottom:5%;
+    left: 2%;
+    width: 10%;
+    height: 10%;
+    background-color: red;
+    border: 0cm;
+    font-weight: bold;
+    font-size: 150%;
+}
